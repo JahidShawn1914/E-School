@@ -1,0 +1,116 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+        /* header */
+        header{
+            padding: 5px 0;
+        }
+        .logo{
+            width: 180px;
+        }
+        .menu ul li a{
+            padding: 0 10px 10px !important;
+        }
+        /* banner */
+        .b-text{
+            text-align: center;
+        }
+        .b-h1 {
+            margin: 10px 0 20px;
+            font-size: 35px;
+            line-height: 45px;
+        }    
+        .b-p2 {
+            margin: 0;
+            line-height: 30px;
+        }
+        .b-img{
+            margin: 0 0 30px;
+        }
+        /* feature */
+        .c-p{
+            padding-bottom: 60px;
+        }
+        .sf-h2{
+            font-size: 20px;
+            line-height: 30px;
+        }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* header */
+    header{
+        padding: 5px 0;
+    }
+    .menu ul li a{
+        padding: 0 10px 10px !important;
+    }
+    /* banner */
+    .b-text{
+        text-align: center;
+    }
+    .b-h1 {
+        margin: 10px 75px 20px;
+        font-size: 35px;
+        line-height: 45px;
+    }    
+    .b-p2 {
+        margin: 0 50px;
+        line-height: 30px;
+    }
+    .b-img{
+        margin: 0 50px 30px;
+    }
+    /* feature */
+    .c-p{
+        padding-bottom: 60px;
+    }
+    .sf-h2{
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* header */
+    .menu ul li a{
+        padding: 0 10px 10px !important;
+    }
+    /* banner */
+    .b-text{
+        text-align: center;
+    }
+    .b-h1 {
+        margin: 10px 90px 20px;
+    }    
+    .b-p2 {
+        margin: 0 90px;
+    }
+    .b-img{
+        margin: 0 50px 30px;
+    }
+    /* feature */
+    .c-p{
+        padding-bottom: 80px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .sf-item{
+        padding: 45px 0 40px;
+    }
+}
+
+/* Extra extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+    /* banner start */
+    .b-h1{
+        margin: 10px 110px 20px 0;
+    }
+}
