@@ -100,3 +100,43 @@ header{
 }
 .sf-p{}
 /* feature end */
+
+/* courses start */
+.courses{}
+.c-title{}
+.c-title h1{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+}
+.c-item{
+    margin: 60px 0 0;
+    padding: 24px 20px 30px;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+
+}
+.c-img{}
+.c-img img{
+    border-radius: 11px;
+}
+.c-h2{
+    margin: 19px 0 3px;
+    font-size: 24px;
+    font-weight: 500;
+    color: var(--black);
+    line-height: 36px;
+}
+.nli{
+}
+.ci-p{}
+.c-link{
+    margin: 19px 0 34px;
+    padding: 8px 28px;
+}
+.c-icon{}
+.c-footer{}
+.c-span{
+    font-weight: 500;
+}
+/* courses end */

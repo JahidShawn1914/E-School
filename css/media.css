@@ -34,6 +34,27 @@
             font-size: 20px;
             line-height: 30px;
         }
+        /* courses start */
+        .c-title h1{
+            font-size: 28px;
+            line-height: 40px;
+        }
+        .c-item{
+            margin: 30px 0 0;
+            padding: 20px 15px 20px;
+        }
+        .c-h2{
+            font-size: 20px;
+        }
+        .nli{
+            margin-right: 0 !important;
+        }
+        .c-icon{
+            width: 20px;}
+        .c-span{
+            font-size: 15px;
+            font-weight: 400;
+        }
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -69,6 +90,17 @@
         font-size: 20px;
         line-height: 30px;
     }
+    /* courses start */
+    .c-title h1{
+        font-size: 28px;
+        line-height: 45px;
+    }
+    .c-item{
+        margin: 30px 80px 0;
+    }
+    .c-h2{
+        font-size: 20px;
+    }
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -94,12 +126,29 @@
     .c-p{
         padding-bottom: 80px;
     }
+    /* courses */
+    .c-item{
+        margin: 40px 100px 0;
+    }
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) {
     .sf-item{
         padding: 45px 0 40px;
+    }
+    /* course */    
+    .c-item{
+        padding: 20px 15px 10px;
+    }
+    .nli{
+        margin-right: 0 !important;
+    }
+    .c-icon{
+        width: 20px;}
+    .c-span{
+        font-size: 15px;
+        font-weight: 400;
     }
 }
 
