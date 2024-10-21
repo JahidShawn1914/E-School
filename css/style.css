@@ -131,6 +131,15 @@ header{
 }
 /* courses end */
 
+/* testimony start */
+.testimonial{
+    padding: 100px 0;
+}
+.t-item{
+    margin-top: 60px;
+}
+/* testimony end */
+
 /* ft start */
 .footer-top{
     padding: 55px 0 55px;
@@ -143,7 +152,6 @@ header{
     color: white;
     line-height: 30px;
 }
-.ft-links{}
 .ft-links h2{
     margin-bottom: 8px;
     font-size: 18px;

@@ -67,6 +67,16 @@
         .ft-links{
             padding-bottom: 35px;
         }
+            /* testimonial */
+        .t-item{
+            margin-top: 30px;
+        }
+        .t-img{
+            padding: 0 50px 20px;
+        }
+        .t-text{
+            text-align: center;
+        }
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -122,6 +132,16 @@
     .footer-top{
         text-align: center;
     }
+    /* testimonial */
+    .t-item{
+        margin-top: 30px;
+    }
+    .t-img{
+        padding: 0 120px 20px;
+    }
+    .t-text{
+        text-align: center;
+    }
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -159,6 +179,13 @@
     }
     .footer-top{
         text-align: center;
+    }
+    /* testimony start */
+    .testimonial{
+        padding: 80px;
+    }
+    .t-item{
+        margin-top: 40px;
     }
 }
 
