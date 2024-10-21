@@ -130,3 +130,43 @@ header{
     font-weight: 500;
 }
 /* courses end */
+
+/* ft start */
+.footer-top{
+    padding: 55px 0 55px;
+    background-color: #282531;
+}
+.ft-detail{
+    padding-right: 120px;
+}
+.ft-detail p{
+    color: white;
+    line-height: 30px;
+}
+.ft-links{}
+.ft-links h2{
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    line-height: 30px;
+}
+.ft-links ul li a{
+    margin-bottom: 8px;
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+/* ft end */
+/* footer */
+footer{
+    padding: 20px 0 30px;
+    background-color: #282531;
+}
+footer p{
+    color: white;
+}
+footer p a{
+    color: white;
+    text-decoration: none;
+}
