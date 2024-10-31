@@ -1,3 +1,3 @@
 # E-School
-It's a practice project. I have done this with HTML, CSS, and Bootstrap. It's a fully responsive project for different screen sizes. I have done this using a Figma file.
+This project is a fully responsive website created as a practice exercise using HTML, CSS, and Bootstrap. The layout adapts to different screen sizes, offering an optimized experience across devices. The design is based on a Figma file to closely match the original vision.
 # Preview: https://jahidshawn1914.github.io/E-School/
